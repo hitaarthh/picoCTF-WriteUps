@@ -11,10 +11,14 @@
 ### Hints and Solution: 
 
 - To get the file accessible in your shell, enter the following in the Terminal :
-```$ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag```
+```sh
+$ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag
+```
 
 - ```$ man cat```
 
 ### Flag:
 
-```picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}```
+```sh
+picoCTF{s4n1ty_v3r1f13d_b5aeb3dd}
+```
