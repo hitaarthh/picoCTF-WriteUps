@@ -1,7 +1,7 @@
 <div>
    <a href="https://play.picoctf.org/login" alt="picoCTF" height="40"><img src="https://img.shields.io/badge/picoCTF-Online%20CTF%20challenges-green[700]" ></a>
    <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]  height="40"">
-   <img src="https://img.shields.io/badge/Bi0s-Hardware-black" align="right">
+   <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" align="right"></a>
 </div>
 
 <div align="center">
