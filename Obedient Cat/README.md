@@ -15,7 +15,9 @@
 $ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag
 ```
 
-- ```$ man cat```
+ ```sh
+  $ man cat
+  ```
 
 ### Flag:
 

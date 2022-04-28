@@ -1,6 +1,7 @@
 <div>
    <a href="https://play.picoctf.org/login" alt="picoCTF" height="40"><img src="https://img.shields.io/badge/picoCTF-Online%20CTF%20challenges-green[700]" ></a>
    <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]  height="40"">
+   <img src="https://img.shields.io/badge/Bi0s-Hardware-black" align="right">
 </div>
 
 <div align="center">
@@ -20,7 +21,7 @@
 ## Challenges Solved Till Date:
 
 - [Obedient Cat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Obedient%20Cat)
-- Mod 26
+- [Mod 26](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Mod%2026)
 - Python Wrangling
 - Wave a flag
 - information

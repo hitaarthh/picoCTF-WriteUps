@@ -93,7 +93,7 @@ if __name__ == '__main__':
 
 ```
 ### Method 2:
-- The Easier way<a href="https://rot13.com/"> ROT13.com</a> and rotate the given flag
+- The Easier way is by going to this website <a href="https://rot13.com/"> ROT13.com</a> and rotate the given flag by a shift of 13.
 ### Flag:
 
 ```sh
