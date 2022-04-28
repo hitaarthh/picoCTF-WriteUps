@@ -17,7 +17,7 @@
 
 </div>   
 
-## Challenges Solved Till Date
+## Challenges Solved Till Date:
 
 - Obedient Cat
 - Mod 26
