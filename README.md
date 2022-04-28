@@ -23,7 +23,7 @@
 - [Obedient Cat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Obedient%20Cat)
 - [Mod 26](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Mod%2026)
 - [Python Wrangling](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Python%20Wrangling)
-- Wave a flag
+- [Wave a flag](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Wave%20a%20flag)
 - information
 - Nice netcat 
 - what's a net cat?
