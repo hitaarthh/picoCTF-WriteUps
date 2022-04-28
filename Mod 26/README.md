@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/badge/Category%3A-Cryptography-red"><img src="https://img.shields.io/badge/Points Value%3A%20-10-green[700]" align="right">
+<img src="https://img.shields.io/badge/Category%3A-Cryptography-red" height="25"><img src="https://img.shields.io/badge/Points Value%3A%20-10-green[700]" align="right" height="25">
 
 <div align="center">
-<h2> MOD 26 </h2>
+<h1> MOD 26 </h1>
 </div>
 
 ### Information:
