@@ -1,7 +1,7 @@
 <div>
-   <a href="https://play.picoctf.org/login" alt="picoCTF" height="40"><img src="https://img.shields.io/badge/picoCTF-Online%20CTF%20challenges-green[700]" ></a>
-   <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]  height="40"">
-   <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" align="right"></a>
+   <a href="https://play.picoctf.org/login" alt="picoCTF" ><img src="https://img.shields.io/badge/picoCTF-Online%20CTF%20challenges-green[700]" height="25" ></a>
+   <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]" height="25">
+   <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25"align="right"></a>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 - [Obedient Cat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Obedient%20Cat)
 - [Mod 26](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Mod%2026)
-- Python Wrangling
+- [Python Wrangling](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Python%20Wrangling)
 - Wave a flag
 - information
 - Nice netcat 
