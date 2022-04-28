@@ -1,7 +1,7 @@
-<img src="https://img.shields.io/badge/Category%3A-General%20Skills-red"><img src="https://img.shields.io/badge/Points Value%3A%20-5-green[700]" align="right">
+<img src="https://img.shields.io/badge/Category%3A-General%20Skills-red" height="25"><img src="https://img.shields.io/badge/Points Value%3A%20-5-green[700]" align="right" height="25">
 
 <div align="center">
-<h2> Obedient Cat </h2>
+<h1> Obedient Cat </h1>
 </div>
 
 ### Information:

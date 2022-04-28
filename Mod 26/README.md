@@ -92,6 +92,8 @@ if __name__ == '__main__':
 	main()
 
 ```
+### Method 2:
+- The Easier way<a href="https://rot13.com/"> ROT13.com</a> and rotate the given flag
 ### Flag:
 
 ```sh
