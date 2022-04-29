@@ -27,4 +27,4 @@
 - [information](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/information)
 - [Nice netcat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Nice%20netcat) 
 - what's a net cat?
-- Let's Warm Up
+- [Let's Warm Up](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Let's%20Warm%20Up)
