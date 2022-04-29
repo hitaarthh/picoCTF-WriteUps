@@ -25,5 +25,5 @@
 - [Python Wrangling](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Python%20Wrangling)
 - [Wave a flag](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Wave%20a%20flag)
 - [information](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/information)
-- Nice netcat 
+- [Nice netcat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Nice%20netcat) 
 - what's a net cat?
