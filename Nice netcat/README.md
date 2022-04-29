@@ -34,3 +34,8 @@ for number in nums:
     flag += chr(number)
 print(flag)
 ```
+### Flag:
+```sh
+picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}
+```
+
