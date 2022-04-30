@@ -14,7 +14,7 @@ Submit your answer in our flag format. For example, if your answer was 'hello', 
 
 Found a very familiar hexadecimal value and felt like the flag is the ASCII version of that hexadecimal value. So now there are two ways are to convert into ASCII.
 
-- Write a Python Script for Converting => Made a script for converting from decimal to ASCII which is very similar to this in <a href="https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Nice%20netcat">Nice NetCat</a> Challenge.)
+- Write a Python Script for Converting => Made a script for converting from decimal to ASCII which is very similar to this in <a href="https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Nice%20netcat">Nice NetCat Challenge.</a> )
 - Use an Online Converter.
 
 This time we will be using an online converter <a href="https://www.rapidtables.com/convert/number/hex-to-decimal.html">Rapid Tables.</a>

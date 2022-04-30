@@ -1,6 +1,7 @@
 <div>
    <a href="https://play.picoctf.org/login" alt="picoCTF" ><img src="https://img.shields.io/badge/picoCTF-Online%20CTF%20challenges-green[700]" height="25" ></a>
-   <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]" height="25">
+   <img src="https://img.shields.io/badge/picoCTF--Username%3A-hitaarthh-green[700]" align="left" height="25">
+   <img src="https://img.shields.io/badge/picoGym%20Score%3A-210-blue" align="right" height="25">
    <a href="https://bi0s.in/"><img src="https://img.shields.io/badge/teamBi0s-Hardware-black" height="25"align="right"></a>
 </div>
 
@@ -26,5 +27,7 @@
 - [Wave a flag](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Wave%20a%20flag)
 - [information](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/information)
 - [Nice netcat](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Nice%20netcat) 
-- what's a net cat?
 - [Let's Warm Up](https://github.com/hitaarthh/picoCTF-WriteUps/tree/main/Let's%20Warm%20Up)
+- [Mind your Ps and Qs]()
+- [Static ain't always noise]()
+- [what's a net cat?]()
