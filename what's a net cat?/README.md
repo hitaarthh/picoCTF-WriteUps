@@ -19,8 +19,7 @@ nc <a href="https://linux.die.net/man/1/nc"><u>tutorial</u></a>
 ```sh
 nc jupiter.challenges.picoctf.org 25103
 ```
-
-<img src="" height="100">
+<img width="638" alt="Screenshot 2022-04-30 at 8 55 08 PM" src="https://user-images.githubusercontent.com/91147942/166111848-c0e0fe4e-ea66-419d-ad7d-c7f1a07299a2.png">
 
 ### Flag:
 ```sh
